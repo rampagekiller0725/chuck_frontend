@@ -1,0 +1,27 @@
+.signin-page {
+    padding: 100px 10vw;
+}
+.signin-page p {
+    font-size: 0.7em;
+}
+.signin-form {
+    padding: 0 5vw;
+    text-align: left;
+}
+.primary-text {
+    color: #2F73D7;
+}
+.forgot-password {
+    text-align: right;
+    color: #2F73D7;
+    padding: 10px 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .signin-page {
+        padding: 20px;
+    }
+    .logo > img {
+        width: 100%;
+    }
+}

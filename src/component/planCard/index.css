@@ -1,0 +1,58 @@
+.plan-card {
+  border-radius: 3px;
+  border: 1px solid #afafaf;
+  margin: 10px;
+}
+
+.payment-card {
+  background-color: rgb(222, 226, 230);
+  height: 100%;
+  text-align: center;
+}
+.payment-card h2 {
+  margin: 0;
+  padding: 50px 20px;
+}
+.plan-card-title {
+    text-align: center;
+}
+.plan-card-description {
+    height: 50px;
+}
+.line {
+    width: 50%;
+    border-top: 1px solid #acd5fb;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.payment-card p {
+  font-size: 0.7em;
+}
+.member-ship1 {
+  height: fit-content;
+}
+.payment-card-title {
+  text-align: center;
+}
+
+.grey {
+  color: #afafaf;
+}
+.check {
+  background: rgb(142, 229, 146);
+  border-radius: 100%;
+  width: 18px;
+  height: 18px;
+  font-size: 0.8em;
+  display: inline-block;
+  text-align: center;
+  color: white;
+  margin-right: 15px;
+}
+
+@media only screen and (max-width: 768px) {
+    .plan-card {
+        margin: 10px;
+    }
+}

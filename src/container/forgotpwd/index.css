@@ -1,0 +1,10 @@
+.forgotpwd-page {
+    padding: 50px 10vw;
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+.forgotpwd-page p {
+    font-size: 0.7em;
+}

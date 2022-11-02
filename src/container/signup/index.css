@@ -1,0 +1,26 @@
+.signup-page {
+    padding: 100px 10vw;
+}
+.signup-page p {
+    font-size: 0.7em;
+    text-align: center;
+}
+.signup-page h1 {
+    margin-bottom: 60px;
+    text-align: center;
+}
+.signup-form {
+    padding: 0 5vw;
+    text-align: left;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .signup-page {
+        padding: 20px;
+    }
+    .logo > img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,29 @@
+.paymentinfo-page {
+    padding: 100px 5vw;
+}
+.paymentinfo-page p {
+    font-size: 0.7em;
+    text-align: center;
+}
+.paymentinfo-page h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.paymentinfo-form {
+    padding: 0 5vw;
+    text-align: left;
+}
+.logo > img{
+    width: 540px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .paymentinfo-page {
+        padding: 20px;
+    }
+    .logo > img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,49 @@
+a {
+    text-decoration: none!important;
+}
+.create-campaign {
+    text-align: right;
+}
+.table {
+    background-color: white;
+}
+.table img {
+    width: 30px;
+    transform: translate(0, 2px);
+    margin-right: 5px;
+}
+thead {
+    background-color: rgb(249,250,251);
+}
+th {
+    text-align: center!important;
+}
+td {
+    color: #333333!important;
+    text-align: center!important;
+}
+.th-description {
+    width: 300px;
+}
+.description {
+  max-width: 300px;
+}
+.description-content {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    width: 300px;
+    line-height: 1.2em;
+    margin: 0;
+    color: #333333;
+}
+
+.three-dots {
+    transform: translate(-10px, 2px);
+    display: inline-block;
+}
+
+.users-name {
+    text-align: left!important;
+}

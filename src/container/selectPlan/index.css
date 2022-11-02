@@ -1,0 +1,13 @@
+.selectplan-page {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.selectplan-page h1 {
+    text-align: center;
+}
+.next-btn {
+    text-align: center;
+    margin: 10px;
+}

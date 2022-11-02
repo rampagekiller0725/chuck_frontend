@@ -1,0 +1,13 @@
+.users-content {
+    margin: 0 30px;
+    padding: 20px;
+    background-color: rgb(243, 244, 246);
+}
+.teams-content {
+    margin: 0 30px;
+    padding: 20px;
+    background-color: rgb(243, 244, 246);
+}
+.btn-group {
+    text-align: center;
+}

@@ -1,0 +1,9 @@
+.profile-content {
+    max-width: 500px;
+    margin: auto;
+}
+
+.profile-img img{
+    margin: auto;
+    width: 150px;   
+}
