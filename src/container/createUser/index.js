@@ -38,7 +38,7 @@ export default function CreateUser() {
   };
   return (
     <div className="create-user-page">
-      <h1>Create Team</h1>
+      <h1>Create User</h1>
       <div className="create-user-content">
         <Grid>
           <Grid.Col xs={6}>
