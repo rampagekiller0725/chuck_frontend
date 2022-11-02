@@ -68,9 +68,8 @@ export default function CreateUser() {
               label="Role"
               placeholder="Pick one"
               data={[
-                { value: "owner", label: "Owner" },
-                { value: "editor", label: "Editor" },
-                { value: "viewer", label: "Viewer" },
+                { value: "manager", label: "Manager" },
+                { value: "user", label: "User" },
               ]}
               sx={{
                 textAlign: "left",
